@@ -1,0 +1,14 @@
+{
+  "originUrl": "https://us.demo.amelia.com/",
+  "ameliaUrl": "https://us.demo.amelia.com/Amelia/ui/scb/?domainCode=cajamr",
+  "chatUrl": "https://us.demo.amelia.com/Amelia/ui/scb/",
+  "parentUrl": "https://www.sc.com/en/",
+  "actions": {
+    "nav_customer-care": {
+      "url": "https://www.bsh-group.com/products-brands/customer-care"
+    },
+    "nav_home": {
+      "url": "https://www.bsh-group.com/products-brands/customer-care"
+    }
+  }
+}
