@@ -1,8 +1,8 @@
 {
-  "originUrl": "https://us.demo1.amelia.com/",
-  "ameliaUrl": "https://us.demo1.amelia.com/Amelia/ui/iberiademo/chat?domain=iberiademo&language=es",
-  "chatUrl": "https://us.demo1.amelia.com/Amelia/ui/iberiademo/chat?domain=iberiademo&language=es",
-  "parentUrl": "https://www.bancoazteca.com.mx/",
+  "originUrl": "https://us.demo.amelia.com/",
+  "ameliaUrl": "https://us.demo.amelia.com/Amelia/ui/matheus/chat/login?domainCode=matheushospitality",
+  "chatUrl": "https://us.demo.amelia.com/Amelia/ui/matheus/chat/login?domainCode=matheushospitality",
+  "parentUrl": "https://caselaparks.com/",
   "actions": {
     "nav_customer-care": {
       "url": "https://www.bsh-group.com/products-brands/customer-care"
