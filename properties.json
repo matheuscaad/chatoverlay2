@@ -1,7 +1,7 @@
 {
   "originUrl": "https://us.demo1.amelia.com/",
-  "ameliaUrl": "https://us.demo1.amelia.com/Amelia/ui/matheusdias/chat?domainCOde=lastminute",
-  "chatUrl": "https://us.demo1.amelia.com/Amelia/ui/matheusdias/chat?domainCOde=lastminute",
+  "ameliaUrl": "https://us.demo1.amelia.com/Amelia/ui/matheusdias/chat?domainCode=lastminute",
+  "chatUrl": "https://us.demo1.amelia.com/Amelia/ui/matheusdias/chat?domainCode=lastminute",
   "parentUrl": "https://www.lastminute.com/",
   "actions": {
     "nav_customer-care": {
