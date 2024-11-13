@@ -1,8 +1,8 @@
 {
-  "originUrl": "https://us.demo1.amelia.com/",
-  "ameliaUrl": "https://us.demo1.amelia.com/Amelia/ui/matheusdias/chat?domainCode=lastminute",
-  "chatUrl": "https://us.demo1.amelia.com/Amelia/ui/matheusdias/chat?domainCode=lastminute",
-  "parentUrl": "https://www.lastminute.com/",
+  "originUrl": "https://us.demo.amelia.com/",
+  "ameliaUrl": "https://us.demo.amelia.com/Amelia/ui/matheus/chat?domain=esbanking&language=es",
+  "chatUrl": "https://us.demo.amelia.com/Amelia/ui/matheus/chat?domain=esbanking&language=es",
+  "parentUrl": "https://www.globalcaja.es/es",
   "actions": {
     "nav_customer-care": {
       "url": "https://www.bsh-group.com/products-brands/customer-care"
